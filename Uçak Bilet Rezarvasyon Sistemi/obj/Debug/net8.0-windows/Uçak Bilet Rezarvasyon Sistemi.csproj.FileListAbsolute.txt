@@ -1,0 +1,17 @@
+C:\Users\hasan\source\repos\Uçak Bilet Rezarvasyon Sistemi\Uçak Bilet Rezarvasyon Sistemi\bin\Debug\net8.0-windows\Uçak Bilet Rezarvasyon Sistemi.exe
+C:\Users\hasan\source\repos\Uçak Bilet Rezarvasyon Sistemi\Uçak Bilet Rezarvasyon Sistemi\bin\Debug\net8.0-windows\Uçak Bilet Rezarvasyon Sistemi.deps.json
+C:\Users\hasan\source\repos\Uçak Bilet Rezarvasyon Sistemi\Uçak Bilet Rezarvasyon Sistemi\bin\Debug\net8.0-windows\Uçak Bilet Rezarvasyon Sistemi.runtimeconfig.json
+C:\Users\hasan\source\repos\Uçak Bilet Rezarvasyon Sistemi\Uçak Bilet Rezarvasyon Sistemi\bin\Debug\net8.0-windows\Uçak Bilet Rezarvasyon Sistemi.dll
+C:\Users\hasan\source\repos\Uçak Bilet Rezarvasyon Sistemi\Uçak Bilet Rezarvasyon Sistemi\bin\Debug\net8.0-windows\Uçak Bilet Rezarvasyon Sistemi.pdb
+C:\Users\hasan\source\repos\Uçak Bilet Rezarvasyon Sistemi\Uçak Bilet Rezarvasyon Sistemi\obj\Debug\net8.0-windows\Uçak_Bilet_Rezarvasyon_Sistemi.Form1.resources
+C:\Users\hasan\source\repos\Uçak Bilet Rezarvasyon Sistemi\Uçak Bilet Rezarvasyon Sistemi\obj\Debug\net8.0-windows\Uçak Bilet Rezarvasyon Sistemi.csproj.GenerateResource.cache
+C:\Users\hasan\source\repos\Uçak Bilet Rezarvasyon Sistemi\Uçak Bilet Rezarvasyon Sistemi\obj\Debug\net8.0-windows\Uçak Bilet Rezarvasyon Sistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\source\repos\Uçak Bilet Rezarvasyon Sistemi\Uçak Bilet Rezarvasyon Sistemi\obj\Debug\net8.0-windows\Uçak Bilet Rezarvasyon Sistemi.AssemblyInfoInputs.cache
+C:\Users\hasan\source\repos\Uçak Bilet Rezarvasyon Sistemi\Uçak Bilet Rezarvasyon Sistemi\obj\Debug\net8.0-windows\Uçak Bilet Rezarvasyon Sistemi.AssemblyInfo.cs
+C:\Users\hasan\source\repos\Uçak Bilet Rezarvasyon Sistemi\Uçak Bilet Rezarvasyon Sistemi\obj\Debug\net8.0-windows\Uçak Bilet Rezarvasyon Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\Uçak Bilet Rezarvasyon Sistemi\Uçak Bilet Rezarvasyon Sistemi\obj\Debug\net8.0-windows\Uçak Bilet Rezarvasyon Sistemi.dll
+C:\Users\hasan\source\repos\Uçak Bilet Rezarvasyon Sistemi\Uçak Bilet Rezarvasyon Sistemi\obj\Debug\net8.0-windows\refint\Uçak Bilet Rezarvasyon Sistemi.dll
+C:\Users\hasan\source\repos\Uçak Bilet Rezarvasyon Sistemi\Uçak Bilet Rezarvasyon Sistemi\obj\Debug\net8.0-windows\Uçak Bilet Rezarvasyon Sistemi.pdb
+C:\Users\hasan\source\repos\Uçak Bilet Rezarvasyon Sistemi\Uçak Bilet Rezarvasyon Sistemi\obj\Debug\net8.0-windows\Uçak Bilet Rezarvasyon Sistemi.genruntimeconfig.cache
+C:\Users\hasan\source\repos\Uçak Bilet Rezarvasyon Sistemi\Uçak Bilet Rezarvasyon Sistemi\obj\Debug\net8.0-windows\ref\Uçak Bilet Rezarvasyon Sistemi.dll
+C:\Users\hasan\source\repos\Uçak Bilet Rezarvasyon Sistemi\Uçak Bilet Rezarvasyon Sistemi\obj\Debug\net8.0-windows\Uçak_Bilet_Rezarvasyon_Sistemi.Properties.Resources.resources
